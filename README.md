@@ -9,7 +9,7 @@ This is the main repository for the [Implementing and extending unsupervised hum
 1. Build text embeddings and demonstrate translation without rosetta stone
     * Good opportunity to test and demonstrate [embedding alignment](https://arxiv.org/abs/1805.06297) (this technique is what we will want to leverage once we obtain audio embeddings).
     * Findings can lend themselves well to clarifying our approach and also to sharing the efficacy of embeddings with a broader public
-2. Implement [Audio Word2Vec](https://arxiv.org/abs/1805.06297) - train acoustic embeddings using a denoising AE architecture
+2. Implement [Audio Word2Vec](https://arxiv.org/abs/1603.00982) - train acoustic embeddings using a denoising AE architecture
     * Good opportunity to get acquainted with the LibriSpeech dataset
     * These embeddings could lend themselves well to comparison against semantic embeddings
 3. [Learning Word Embeddings from Speech](https://arxiv.org/abs/1711.01515) - train semantic embeddings using an RNN encoder-decoder architecture
