@@ -12,7 +12,7 @@ This is the main repository for the [Implementing and extending unsupervised hum
 2. Implement [Audio Word2Vec](https://arxiv.org/abs/1603.00982) - train acoustic embeddings using a denoising AE architecture
     * Good opportunity to get acquainted with the LibriSpeech dataset
     * These embeddings could lend themselves well to comparison against semantic embeddings
-3. [Learning Word Embeddings from Speech](https://arxiv.org/abs/1711.01515) - train semantic embeddings using an RNN encoder-decoder architecture
+3. [Speech2Vec: A Sequence-to-Sequence Framework for Learning Word Embeddings from Speech](https://arxiv.org/abs/1803.08976) - train semantic embeddings using an RNN encoder-decoder architecture
     * This architecture, or one of similar capability, is one we want to leverage for unsupervised audio to audio translation
 4. Reproduce #3 with a transformer architecture (tentative)
     * Transformers offer an ease of training, they can be trained efficiently on vast amounts of data
