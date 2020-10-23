@@ -2,6 +2,8 @@
 
 This is the main repository for the [Implementing and extending unsupervised human-human text/audio translation](https://github.com/orgs/earthspecies/projects/4) project.
 
+How does this fit into the ESP roadmap towards translating animal communication? Unsupervised audio-to-audio translation requires learning how to create useful semantic embeddings directly from audio, which allows for coorelation with other behavioral models or comparison across species.
+
 ## Project overview
 
 **Goal: achieving unsupervised audio to audio translation**
