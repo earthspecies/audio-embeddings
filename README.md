@@ -1,6 +1,6 @@
 # Unsupervised Audio-to-Audio Translation
 
-**Please note:** This repository is actively being worked on. Throughout the course of working on this repository, we changed how we preprocess the data. Also, there were several bugs that were found in earlier notebooks that have been removed going forward. This is a good moment to refactor the work. You can find old code on the (experiments branch)[https://github.com/earthspecies/unsupervised-audio-translation/tree/experiments].
+**Please note:** This repository is actively being worked on. Throughout the course of working on this repository, we changed how we preprocess the data. Also, there were several bugs that were found in earlier notebooks that have been removed going forward. This is a good moment to refactor the work. You can find old code on the [experiments branch](https://github.com/earthspecies/unsupervised-audio-translation/tree/experiments).
 
 This is the main repository for the [Implementing and extending unsupervised human-human text/audio translation](https://github.com/orgs/earthspecies/projects/4) project.
 
