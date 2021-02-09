@@ -1,3 +1,5 @@
+## PLEASE NOTE: This project has now transformed into the work being done [here](https://github.com/earthspecies/unsupervised-speech-translation). Please head over there for current status.
+
 # Unsupervised Audio-to-Audio Translation
 
 This is the main repository for the [Implementing and extending unsupervised human-human text/audio translation](https://github.com/orgs/earthspecies/projects/4) project.
